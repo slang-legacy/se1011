@@ -18,5 +18,6 @@ Moore's Law states that the number of transistors in integrated circuits doubles
 
 ##Program
 Write a Java program that asks the user to input a number, collects the number 
-that is inputted and displays that number using the GUI dialog box. Provide the screen 
-shot of your result
+that is inputted and displays that number using the GUI dialog box. Provide the screen shot of your result.
+
+See `Main.java` & `Screenshot.png`.
