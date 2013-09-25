@@ -3,8 +3,8 @@ import java.util.*;
 public class Fraction {
 	/**
 	 * prompt for a numerator and denominator and print out resulting fraction
-     * as a float
-     */
+	 * as a float
+	 */
 	public static void main(String[] args) {
 		Scanner console = new Scanner(System.in);
 		System.out.print("Enter a numerator: ");
